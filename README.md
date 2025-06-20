@@ -40,10 +40,10 @@ To demonstrate how I would approach supply chain analysis in a highly regulated,
 ## 📂 Repository Structure
 
 ```
-data/                # Sample CSV datasets  
-images/              # Auto‑generated sample visuals  
-scripts/             # (add Python scripts here)  
-dashboard/           # (add Power BI .pbix here)  
+data/                
+images/               
+scripts/               
+dashboard/           
 README.md  
 requirements.txt
 ```
