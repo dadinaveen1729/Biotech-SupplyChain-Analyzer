@@ -1,0 +1,6 @@
+Material_ID,Scrap_Reason,Scrap_Quantity,Date
+RM101,Expired,50,2025-04-01
+RM102,Damaged,40,2025-04-16
+RM103,Contamination,30,2025-05-01
+RM101,Spillage,20,2025-05-16
+RM105,Expired,45,2025-05-31

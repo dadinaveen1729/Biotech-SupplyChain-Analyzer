@@ -1,0 +1,6 @@
+Material_ID,Material_Name,Current_Stock,Reorder_Level,Expiry_Date,Supplier
+RM101,Resin A,1200,1000,2025-07-31,Supplier X
+RM102,Gas B,800,500,2025-08-31,Supplier Y
+RM103,Solvent C,300,250,2025-09-30,Supplier Z
+RM104,Filter D,150,100,2025-10-31,Supplier X
+RM105,Binder E,950,900,2025-11-30,Supplier Y
