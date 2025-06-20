@@ -4,7 +4,7 @@
 
 ## 👤 About Me
 
-Hi, I'm **Naveen Dadi** — a data-driven professional with a Master's in Business Analytics and **5+ years of experience** in supply chain analytics, program management, and reporting automation. I've worked with organizations like Amazon, NYU, and Infosys, using tools like Power BI, Python, SQL, and Salesforce to drive operational improvements.
+Hi, I'm **Naveen Dadi** — a data-driven professional with a Master's in Business Analytics and **5+ years of experience** in Data Analytics, Business Analytics, supply chain analytics, program management, and reporting automation. I've worked with organizations like Amazon, NYU, and Infosys, using tools like Power BI, Python, SQL, and Salesforce to drive operational improvements.
 
 This project reflects my passion for applying analytics in real-world operations — especially in fast-paced, regulated industries like **biotech** and **manufacturing**. I created this end-to-end simulation to showcase how I approach supply chain challenges with data, automation, and dashboards.
 
